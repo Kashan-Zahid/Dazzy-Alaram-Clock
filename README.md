@@ -12,13 +12,13 @@ Dazzy-Alaram is a custom hardware project designed from scratch. It combines a c
 ## Project Gallery & Documentation
 
 ### 1. Overall Clock Concept
-> ![Overall Clock Render](/home/kashii/overall.png)
+> ![Overall Clock Render](overall.png)
 
 ### 2. Schematic
-> ![Schematic](/home/kashii/sch.png)
+> ![Schematic](sch.png)
 
 ### 3. PCB Layout
-> ![PCB Layout](/home/kashii/pcb1.png)
+> ![PCB Layout](pcb1.png)
 
 ---
 
